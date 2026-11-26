@@ -1,8 +1,8 @@
 # Roast Your Own Agent
 
 [![make.fun](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda)
-[![rank](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda/iqbalbeladaz/roast-your-own-agent/rank.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda)
-[![reward](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda/iqbalbeladaz/roast-your-own-agent/reward.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda)
+[![rank](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda/iqbalbeladaz/roast-your-own-agent-mfnakmal/rank.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda)
+[![reward](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda/iqbalbeladaz/roast-your-own-agent-mfnakmal/reward.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda)
 
 A single-line roast of my own AI agent (78 characters) for the [Roast Your Own Agent bounty](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda) on [make.fun](https://make.fun). The program writes one line, at most 200 characters, to `/output/entry.txt`.
 
